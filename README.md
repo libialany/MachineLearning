@@ -10,3 +10,4 @@ Hello everyone! here are some of my projects.
 
 4. [Web Traffic TimeSeries Exploratory Data Analysis ](./WebTrafficTimeSeriesEDA.ipynb)
 
+5. [Exploring the Bitcoin Cryptocurrency Market](./ExploringtheBitcoinCryptocurrencyMarket.ipynb)
